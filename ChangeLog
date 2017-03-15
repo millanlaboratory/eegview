@@ -1,3 +1,8 @@
+2017-03-15 Serafeim Perdikis <serafeim.perdikis@epfl.ch>
+
+	* Removed useless variables ntri from eegview.c
+	* Doing this mostly to learn to repackage!
+
 2012-01-22  Nicolas Bourdaud <nicolas.bourdaud@gmail.com>
 
 	* AUTHORS, configure.ac, src/eegview.c: Update the copyright
